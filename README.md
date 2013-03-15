@@ -3,6 +3,8 @@ ipFunctions
 
 Providing functionality to check ip validation and convert CIDR notation to IP ranges. also allowing for single ips to be converted to long and back again.
 
+[![Build Status](https://travis-ci.org/markwillis82/ipFunctions.png)](https://travis-ci.org/markwillis82/ipFunctions)
+
 example
 =======
 
