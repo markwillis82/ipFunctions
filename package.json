@@ -1,0 +1,16 @@
+{
+  "name": "ipFunctions",
+  "description": "Providing functionality to check ip validation and convert CIDR notation to IP ranges. also allowing for single ips to be converted to long and back again",
+  "version": "0.0.1",
+  "repository": {
+    "url": "git://github.com/markwillis82/ipFunctions.git"
+  },
+  "main": "lib/cidr.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.2.5"
+  }
+}
